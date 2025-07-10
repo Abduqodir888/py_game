@@ -38,3 +38,12 @@ To look for the additions, seek comments started with "!!!"
 1. Add more levels
 1. Add `gameover` screen
 1. Add more powerups
+
+
+######################################################################
+
+! ADDED PAUSE BUTTON (ESC)
+! ADDED 2 MORE POWER-UPS
+! ADDED EASY AND HARD MODES
+! ADDED NEW LEVELS
+
